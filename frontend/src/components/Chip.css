@@ -1,0 +1,9 @@
+.chip {
+  background-color: var(--color-primary);
+  color: var(--color-secondary);
+  border-radius: var(--rounded-full);
+  padding: 4px 10px;
+  font-family: var(--font-family-mono);
+  font-size: var(--spacing-sm);
+  display: inline-block;
+}
